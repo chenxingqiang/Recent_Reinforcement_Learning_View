@@ -89,3 +89,7 @@
 - 第六十一周：反向强化学习热点综述
 - 第六十二周：强化学习未来发展方向综述
 
+
+# paper 每周共享共读
+
+- 第一周：DEEP REINFORCEMENT LEARNING: AN OVERVIEW 
